@@ -1,0 +1,153 @@
+body {
+	margin: 0;
+}
+
+.right-list a {
+	text-decoration: none;
+	color: white;
+	display: block;
+	padding: 40px 10px;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+.right-list a:hover {
+	border-bottom: 5px solid #FFF;
+	color: white;
+}
+
+.right-list li {
+	display: inline-block;
+	margin-right: 10px;
+	margin-top: -31px;
+	font-size: 18px;
+}
+
+.logo {
+	width: 30px;
+	height: 100%;
+	padding: 20px 26px;
+	display: inline-block;
+}
+
+.background {
+	background-image: url("./background.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 800px;
+}
+
+.list5 .right-list  {
+	list-style: none;
+}
+
+.list5 {
+	float: right;
+}
+
+.registered {
+	width: 441px !important;
+	border-radius: 4px;
+	background-color: #FFF;
+	margin: 36px 75px;
+	box-shadow: 0 16px 40px rgba(0,0,0,0.12)
+}
+
+.registered .title {
+	display: inline;
+	height: 100px;
+	width: 100%;
+	padding: 0px 10px;
+	color: #484848 !important;
+	font-size: 25px;
+	line-height: 36px !important;
+}
+
+h2 {
+	margin: 0;
+	margin-left: 5px;
+}
+
+.registered .content {
+	margin: -39px 0;
+}
+
+.registered {
+	padding: 0px 20px;
+}
+
+label {
+	display: block;
+}
+
+
+
+.information-input {
+	width: 400px;
+	height: 25px;
+	padding: 8px;
+	border-radius: 4px;
+	margin: 5px 15px;
+	border: 1px solid #EBEBEB
+}
+
+.information-input2 {
+	width: 400px;
+	height: 25px;
+	padding: 8px;
+	border-radius: 4px;
+	margin: 5px 15px;
+	border: 1px solid #EBEBEB
+}
+
+.information-input3 {
+	border-radius: 4px;
+	width: 400px;
+	height: 25px;
+	padding: 8px;
+	margin: 0px 15px;
+	border: 1px solid #EBEBEB;
+}
+
+.content .content-2 .information {
+	display: inline-block;
+}
+
+label, input {
+	padding-left: 15px;
+}
+
+.content-1 .information{
+	margin-top: 0px;
+	margin: -7px;
+}
+
+.content-2 .information {
+	margin: -7px;
+}
+
+.content-3 .information {
+	margin: -7px;
+	padding-bottom: 5px;
+}
+
+.content-4 a {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 25px;
+	border-radius: 4px;
+	display: inline-block;
+	margin-left: 74%;
+	padding: 10px 15px;
+	margin-bottom: 15px;
+	background-color: #e95555;
+	color: white;
+}
+
+
+
+
+

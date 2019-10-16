@@ -1,0 +1,14 @@
+.all {
+	display: grid;
+	grid-template-columns: auto 1fr auto;
+}
+
+.header {
+	grid-column: 1/4;
+}
+.main {
+	grid-column: 1/4;
+	margin-bottom: -200px;	
+}
+
+

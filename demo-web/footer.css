@@ -1,0 +1,19 @@
+* {
+	font-family: Arial, sans-serif;
+}
+
+.footer-last {
+	height: 300px;
+	width: 1519px;
+	background-color: #6f6e6e;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.content-footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

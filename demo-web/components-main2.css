@@ -1,0 +1,186 @@
+/** {
+	box-sizing: border-box;
+}*/
+.li-main2 {
+	list-style-type: none;
+	display: inline-block;
+	margin: 0px 7px;
+}
+
+.ul-main2 {
+	display: flex;
+	justify-content: center;
+	padding: 0px;
+}
+
+.p-main2 {
+	margin-top: 0px;
+}
+
+.h5-main2 {
+	margin: 0px;
+	margin-top: 0px;
+}
+
+.h3-main2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 25px;
+}
+
+.h1-main2 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.h2-main2 {
+	margin-top: 0px;
+}
+
+.h4-main2 {
+	margin-bottom: 0px;
+}
+
+.click-main2 {
+	text-decoration: none;
+}
+
+i {
+	margin-left: 5px;
+}
+
+.h2-main2 {
+	display: inline-block;
+	padding: 15px 25px;
+	background-color: white;
+	color: #7b7272;
+	font-size: 18px;
+	border-radius: 6px;
+	box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px !important; 
+	opacity: 0;
+	transition: all 0.5s;
+	transform: scale(0.5);
+}
+
+.caption {
+	color: white;
+	position: absolute;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding-bottom: 10px;
+	opacity: 1;
+	transition: all 0.5s;
+	transform: scale(0.5);
+}
+
+.background2 {
+	position: relative;
+	width: 260px;
+	height: 330px;
+}
+
+.overlay {
+	height: 330px;
+	width: 260px;
+	position: absolute;
+	bottom: -2px;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;background-image: linear-gradient(-180deg, rgba(0, 0, 0, 0) 3%, rgb(0, 0, 0) 100%) !important;
+	opacity: 0;	
+}
+
+.background2:hover .overlay {
+	opacity: 1;
+}
+
+.background2:hover .caption {
+	transform: scale(1);
+}
+
+
+.accommodations {
+	margin-top: 80px;
+}
+
+.picture2 .pic2 {
+	background-image: url("./a-modern-haven-13.jpg");
+	height: 300px;
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 45px;
+}
+
+.picture2 {
+	margin: 0 80px;
+}
+
+.link3 {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 169px;
+
+}
+
+
+
+.picture2:hover h2 {
+	opacity: 1;
+	transform: scale(1);
+}
+
+.list10 {
+	height: 1000px;
+}
+
+.list10 .click2-main2 {
+	margin: 0px 80px;
+	position: relative;
+}
+
+.house {
+	height: 400px;
+	position: relative;
+}
+
+.house-picture {
+	display: inline-block;
+	height: 200px;
+}
+
+.caption1 {
+	position: absolute;
+}
+
+.content1 h5 {
+	color: #676262;
+}
+
+.content2 h3 {
+	margin-top: 0px;
+}
+
+.content3 p {
+	margin-top: 5px;
+	color: #676262;
+	margin-bottom: 0px;
+}
+
+.content4 i {
+	margin-left: 0px;
+	font-size: 10px;
+	color: #1183b9;
+}
+
+.title2 a {
+	color: black;
+	text-decoration: none;
+	/*margin-left: 101px;*/
+}
+
+.title2 {
+	    margin: 0 101px;
+}
